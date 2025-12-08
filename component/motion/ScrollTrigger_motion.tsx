@@ -11,7 +11,7 @@ import type { Variants } from "motion/react";
  * 2. viewport: 애니메이션 트리거 조건 설정
  * 3. variants: 재사용 가능한 애니메이션 상태 정의
  */
-export default function Scroll_motion() {
+export default function ScrollTrigger_motion() {
   return (
     <div className="my-24 mx-auto max-w-2xl pb-24 w-full">
       {/* 스크롤 애니메이션 카드 */}
