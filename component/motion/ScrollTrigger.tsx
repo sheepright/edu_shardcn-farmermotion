@@ -13,7 +13,7 @@ import type { Variants } from "motion/react";
  */
 export default function ScrollTrigger_motion() {
   return (
-    <div className="my-24 mx-auto max-w-2xl pb-24 w-full">
+    <div className="mx-auto max-w-2xl w-full">
       {/* 스크롤 애니메이션 카드 */}
       <ScrollCard />
     </div>
